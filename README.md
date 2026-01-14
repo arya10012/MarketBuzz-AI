@@ -59,7 +59,7 @@ marketbuzz-ai/
 ├── style.css # Styling, fonts, hover effects
 └── README.md # Project documentation
 
-
+---
 
 ## 🔮 Future Enhancements (Planned)
 
@@ -92,6 +92,7 @@ It is not affiliated with or endorsed by NSE India.
 **Arya Bhor**  
 Data Analytics | AI | Web Projects  
 GitHub: https://github.com/arya10012
+
 
 
 
