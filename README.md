@@ -1,14 +1,14 @@
-# NSE Pulse AI 🤖📈  
+# MarketBuzz AI 🤖📈  
 **AI-powered support agent for NSE India news & market updates**
 
-NSE Pulse AI is a modern, stock exchange–themed web application integrated with a Voiceflow-powered AI assistant.  
+MarketBuzz AI is a modern, stock exchange–themed web application integrated with a Voiceflow-powered AI assistant.  
 The agent is designed to help users stay informed with the latest NSE India news, announcements, and market updates using official RSS feeds.
 
 ---
 
 ## ✨ Project Overview
 
-The goal of this project is to build an **intelligent NSE India support agent** that:
+The goal of this project is to build an **intelligent MarketBuzz AI support agent** that:
 - Fetches real-time news and updates from NSE India
 - Presents information through a conversational AI interface
 - Provides a clean, professional fintech-style user experience
@@ -32,8 +32,8 @@ The current version focuses on:
 
 ## 🧠 AI Agent
 
-**Name:** NSE Pulse AI  
-**Role:** NSE India Support Agent  
+**Name:** MarketBuzz AI  
+**Role:** Market News & Updates Assistant  
 
 **Description:**  
 > Your smart assistant for real-time NSE India news and market updates.
@@ -53,11 +53,12 @@ The AI agent is integrated using **Voiceflow** and is designed to answer user qu
 
 ## 📁 Project Structure
 
-nse-pulse-ai/
+marketbuzz-ai/
 │
-├── index.html # Main webpage
-├── style.css # Styling and hover effects
-├── README.md # Project documentation
+├── index.html        # Main webpage (UI + Voiceflow widget)
+├── style.css         # Styling, fonts, hover effects
+├── README.md         # Project documentation
+
 
 ---
 
