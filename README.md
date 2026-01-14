@@ -51,23 +51,15 @@ The AI agent is integrated using **Voiceflow** and is designed to answer user qu
 
 ---
 
-## 📁 Project Structure
+## Screenshots
 
-marketbuzz-ai/
-<<<<<<< HEAD
-│
-├── index.html        # Main webpage (UI + Voiceflow widget)
-├── style.css         # Styling, fonts, hover effects
-├── README.md         # Project documentation
+### 1. Voiceflow Agent Workflow
+![Voiceflow Agent Workflow](images/voiceflow-workflow.png)
 
-=======
-├── index.html        # 🧠 Main webpage (UI + Voiceflow widget)
-├── style.css         # 🎨 Styling, fonts, hover effects
-└── README.md         # 📘 Project documentation
->>>>>>> e326341a34cc7cfdd8bcf16bbc166579b7a50f22
+### 2. MarketBuzz AI Dashboard
+![MarketBuzz AI Dashboard](images/marketbuzz-ai.png)
 
 ---
-
 ## 🔮 Future Enhancements (Planned)
 
 - 🔄 Live RSS feed parsing and display
@@ -99,6 +91,7 @@ It is not affiliated with or endorsed by NSE India.
 **Arya Bhor**  
 Data Analytics | AI | Web Projects  
 GitHub: https://github.com/arya10012
+
 
 
 
