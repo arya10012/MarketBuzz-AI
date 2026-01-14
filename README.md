@@ -36,7 +36,7 @@ The current version focuses on:
 **Role:** Market News & Updates Assistant  
 
 **Description:**  
-> Your smart assistant for real-time NSE India news and market updates.
+Your smart assistant for real-time NSE India news and market updates.
 
 The AI agent is integrated using **Voiceflow** and is designed to answer user queries related to NSE headlines, announcements, and exchange updates.
 
@@ -91,6 +91,7 @@ It is not affiliated with or endorsed by NSE India.
 **Arya Bhor**  
 Data Analytics | AI | Web Projects  
 GitHub: https://github.com/arya10012
+
 
 
 
